@@ -4,7 +4,7 @@ Created on Tue Jul  9 21:37:58 2024
 
 @author: nayde
 """
-
+#https://codigospython.com/juego-de-la-serpiente-en-python-copiar-y-pegar/
 import pygame
 import time
 import random
